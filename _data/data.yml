@@ -85,7 +85,7 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Science Undergraduate Laboratory Internshi
+  - role: Science Undergraduate Laboratory Internship
     time: 01.2025 - 05.2025
     company: Pacific Northwest National Lab, Richland WA
     details: |
@@ -102,7 +102,6 @@ experiences:
         - Analyzed significant genes in Ingenuity Pathway Analysis to explore gene pathways, results implied STING1
           inhibition being linked to Xaf1 activation in MGL-1 KO SARS2 infected mice
         - Presented poster: MGL-1: An Unrecognized Player in Xaf1 Pathway Activation Following SARS-CoV-2 Infection
-
 
 
 projects:
