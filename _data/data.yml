@@ -18,9 +18,24 @@ sidebar:
   linkedin: soon...
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  softwares:  
+  softwares: 
+    title: Softwares
+    info:
       - item: R, Python, Matlab
-        
+
+  interests:
+    title: Interests
+    info:
+    - item: Statistics
+      link:
+
+
+    - item: Public Health
+      link:
+
+
+    - item: Omics
+      link:
 
   languages:
     title: Languages
@@ -28,8 +43,8 @@ sidebar:
     - idiom: English
       level: Native
 
-  interests:
-    title: Interests
+  hobbies:
+    title: Hobbies
     info:
     - item: Art
       link:
