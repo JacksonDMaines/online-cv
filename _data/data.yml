@@ -18,6 +18,7 @@ sidebar:
   linkedin: soon...
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
+
   softwares: 
     title: Softwares
     info:
@@ -37,12 +38,6 @@ sidebar:
     - item: Omics
       link:
 
-  languages:
-    title: Languages
-    info:
-    - idiom: English
-      level: Native
-
   hobbies:
     title: Hobbies
     info:
@@ -56,6 +51,13 @@ sidebar:
 
     - item: Cooking
       link:
+
+  languages:
+    title: Languages
+    info:
+    - idiom: English
+      level: Native
+
 
 
 career-profile:
