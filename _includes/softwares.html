@@ -7,12 +7,12 @@
   </h2>
 
   <ul class="list-unstyled softwares-list">
-    {% for softwares in softwares.info %}
+    {% for software in softwares.info %}
 
-      {% if softwares.link %}
-      <li><a href="{{ interest.link }}">{{ softwares.item }}</a></li>
+      {% if software.link %}
+      <li><a href="{{ interest.link }}">{{ software.item }}</a></li>
       {% else %}
-      <li>{{ softwares.item }}</li>
+      <li>{{ software.item }}</li>
       {% endif %}
 
     {% endfor %}
