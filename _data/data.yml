@@ -68,12 +68,13 @@ experiences:
   title: Experiences
   info:p
   - role: Science Undergraduate Laboratory Internshi
-    time: Jan 2025 - May 2025
+    time: 01.2025 - 05.2025
     company: Pacific Northwest National Lab, Richland WA
     details: |
-    
+        - Researched genetic libraries
+        - Worked in synthetic biology group
   - role: Summer Research Student
-    time: June 2024 - July 2024
+    time: 06.2024 - 7.2024
     company: University of Texas Medical Branch, Galveston TX
     details: |
         - Worked with infectious disease researcher analyzing data from SARS2 infected mice
