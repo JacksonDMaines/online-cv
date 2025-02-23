@@ -41,15 +41,15 @@ sidebar:
   hobbies:
     title: Hobbies
     info:
-    - item: Art
+    - item: Art, Running, Cooking
       link:
 
 
-    - item: Running
+    - item: 
       link:
 
 
-    - item: Cooking
+    - item: 
       link:
 
   languages:
