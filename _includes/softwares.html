@@ -10,7 +10,7 @@
     {% for software in softwares.info %}
 
       {% if software.link %}
-      <li><a href="{{ interest.link }}">{{ software.item }}</a></li>
+      <li><a href="{{ software.link }}">{{ software.item }}</a></li>
       {% else %}
       <li>{{ software.item }}</li>
       {% endif %}
