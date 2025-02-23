@@ -19,7 +19,7 @@ sidebar:
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
   software:
-    - item: R, Python, Matlab
+    item: R, Python, Matlab
 
   languages:
     title: Languages
