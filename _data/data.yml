@@ -18,9 +18,9 @@ sidebar:
   linkedin: soon...
   pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
 
-  software:
-  info:
-    - item: R, Python, Matlab
+  ssoftwareskills:  
+      - item: R, Python, Matlab
+        
 
   languages:
     title: Languages
