@@ -68,6 +68,9 @@ career-profile:
 education:
   title: Education
   info:
+  - degree: MS in Biostatistics    
+    university: University of Texas Health Science Center at Houston 
+    time: 2025 - Present 
   - degree: BSc in Mathematics
     university: University of Texas at Dallas
     time: 2023 - 2024
@@ -87,7 +90,7 @@ experiences:
   title: Experiences
   info:
   - role: Masters Intern
-    time: 04.2025 - present
+    time: 04.2025 - Present
     company: Pacific Northwest National Lab, Richland WA
     details: |
           - Working in synthetic biology group
@@ -102,7 +105,7 @@ experiences:
         - Collaborated with Department of Energy scientist in the Earth and Biological Sciences and Energy and Environment directorates
         - Wrote Report and Presented Poster: Optimization of Violacein Biosynthesis for Enhanced Antimicrobial Properties
   - role: Summer Research Student
-    time: 06.2024 - 7.2024
+    time: 06.2024 - 07.2024
     company: University of Texas Medical Branch, Galveston TX
     details: |
         - Worked with infectious disease researcher analyzing data from SARS2 infected mice
