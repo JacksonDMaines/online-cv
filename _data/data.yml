@@ -90,8 +90,12 @@ experiences:
     time: 01.2025 - 05.2025
     company: Pacific Northwest National Lab, Richland WA
     details: |
-        - Researched genetic libraries
-        - Worked in synthetic biology group
+        - Contributed to the synthetic biology groups investigation in the optimization of an antimicrobial compound
+        - Utilized Snakemake to analyze long-read PacBio sequencing data
+        - Leveraged Python and R to analyze optical density data, 
+          revealing variation that will be addressed in the recultivation of select samples
+        - Collaborated with Department of Energy scientist in the Earth and Biological Sciences and Energy and Environment directorates
+        - Wrote Report and Presented Poster: Optimization of Violacein Biosynthesis for Enhanced Antimicrobial Properties
   - role: Summer Research Student
     time: 06.2024 - 7.2024
     company: University of Texas Medical Branch, Galveston TX
