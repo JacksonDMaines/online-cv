@@ -86,8 +86,13 @@ education:
 experiences:
   title: Experiences
   info:
+  - role: Master Intern
+    time: 04.2025 - present
+    company: Pacific Northwest National Lab, Richland WA
+    details: |
+          - Working in synthetic biology group
   - role: Science Undergraduate Laboratory Internship
-    time: 01.2025 - 05.2025
+    time: 01.2025 - 04.2025
     company: Pacific Northwest National Lab, Richland WA
     details: |
         - Contributed to the synthetic biology groups investigation in the optimization of an antimicrobial compound
