@@ -10,29 +10,44 @@
     {{ projects.title }}
   </h2>
 
-  {% if projects.intro %}
-  <div class="intro">
-      <p>{{ projects.intro }}</p>
-  </div><!--//intro-->
-  {% endif %}
-
-  {% for project in projects.assignments %}
-    <div class="item">
-
-      <span class="project-title">
-        {% if project.link %}
-        <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
-        {% else %}
-        {{ project.title }}
+  {% if projects.academic %}
+  <div class="projects-group">
+    <h3>{{ projects.academic.title }}</h3>
+    {% if projects.academic.assignments %}
+    {% for project in projects.academic.assignments %}
+      <div class="item">
+        <span class="project-title">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
+        </span>
+        {% if project.tagline %}
+        - <span class="project-tagline">{{ project.tagline }}</span>
         {% endif %}
-      </span>
+      </div>{% endfor %}
+    {% endif %}
+  </div>{% endif %}
 
-      {% if project.tagline %}
-      - <span class="project-tagline">{{ project.tagline }}</span>
-      {% endif %}
+  {% if projects.work %}
+  <div class="projects-group">
+    <h3>{{ projects.work.title }}</h3>
+    {% if projects.work.assignments %}
+    {% for project in projects.work.assignments %}
+      <div class="item">
+        <span class="project-title">
+          {% if project.link %}
+          <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
+          {% else %}
+          {{ project.title }}
+          {% endif %}
+        </span>
+        {% if project.tagline %}
+        - <span class="project-tagline">{{ project.tagline }}</span>
+        {% endif %}
+      </div>{% endfor %}
+    {% endif %}
+  </div>{% endif %}
 
-    </div><!--//item-->
-  {% endfor %}
-
-</section><!--//section-->
-{% endif %}
+  </section>{% endif %}
