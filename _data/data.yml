@@ -127,7 +127,6 @@ projects:
     tagline: "Optimized a possion regression model with variable selection and transfomations."
 
   - title: Summer Olympic Medal Trends
-    link: "#"
     tagline: "Utlized R to visualize and hypothesize on olympic medal counts."
 
     
