@@ -12,7 +12,7 @@
 
   {% if projects.academic %}
   <div class="projects-group">
-    <h3>{{ projects.academic.title }}</h3>
+    <h2>{{ projects.academic.title }}</h2>
     {% if projects.academic.assignments %}
     {% for project in projects.academic.assignments %}
       <div class="item">
@@ -32,7 +32,7 @@
 
   {% if projects.work %}
   <div class="projects-group">
-    <h3>{{ projects.work.title }}</h3>
+    <h2>{{ projects.work.title }}</h2>
     {% if projects.work.assignments %}
     {% for project in projects.work.assignments %}
       <div class="item">
