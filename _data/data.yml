@@ -132,12 +132,11 @@ projects:
   work:
     title: SULI Deliverables
     assignments:
-        assignments:
-          - title: Report
-            link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Report.pdf"
-        
-          - title: Poster
-            link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Poster.pdf"
+      - title: Report
+        link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Report.pdf"
+
+      - title: Poster
+        link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Poster.pdf"
 
 
     
