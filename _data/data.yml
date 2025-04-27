@@ -123,7 +123,7 @@ projects:
     Academic Projects at UT-Dallas
   assignments:
   - title: Bike Sharing Analysis
-    link: "#"
+    link: "https://jacksondmaines.github.io/online-cv/PDFs/Bike_Sharing_Analysis_Report.pdf"
     tagline: "Optimized a possion regression model with variable selection and transfomations."
 
   - title: Summer Olympic Medal Trends
