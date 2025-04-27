@@ -119,26 +119,26 @@ experiences:
 
 projects:
   title: Projects
-  intro: >
-    Academic Projects at UT-Dallas
-  assignments:
-  - title: Bike Sharing Analysis
-    link: "https://jacksondmaines.github.io/online-cv/PDFs/Bike_Sharing_Analysis_Report.pdf"
-    tagline: "Optimized a possion regression model with variable selection and transfomations."
+  academic:
+    title: Academic Projects at UT-Dallas
+    assignments:
+      - title: Bike Sharing Analysis
+        link: "https://jacksondmaines.github.io/online-cv/PDFs/Bike_Sharing_Analysis_Report.pdf"
+        tagline: "Optimized a possion regression model with variable selection and transformations."
 
-  - title: Summer Olympic Medal Trends
-    tagline: "Utlized R to visualize and hypothesize on olympic medal counts."
+      - title: Summer Olympic Medal Trends
+        tagline: "Utilized R to visualize and hypothesize on olympic medal counts."
 
+  work:
+    title: SULI Deliverables
+    assignments:
+        assignments:
+          - title: Report
+            link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Report.pdf"
+        
+          - title: Poster
+            link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Poster.pdf"
 
-projects:
-  intro: >
-    SULI Deliverables
-  assignments:
-  - title: Report
-    link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Report.pdf"
-
-  - title: Poster
-    link: "https://jacksondmaines.github.io/online-cv/PDFs/SULI_Poster.pdf"
 
     
 footer: >
