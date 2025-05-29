@@ -124,7 +124,7 @@ projects:
     assignments:
       - title: Bike Sharing Analysis
         link: "https://jacksondmaines.github.io/online-cv/PDFs/Bike_Sharing_Analysis_Report.pdf"
-        tagline: "Optimized a possion regression model with variable selection and transformations."
+        tagline: "Optimized a negative binomial regression model with variable selection and transformations."
 
       - title: Summer Olympic Medal Trends
         tagline: "Utilized R to visualize and hypothesize on olympic medal counts."
